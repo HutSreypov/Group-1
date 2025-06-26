@@ -27,7 +27,7 @@ img {
     text-align: center;
     background: white;
 
-    height: 570px;
+    height: 550px;
     width: 320px;
     border-radius: 30px;
     padding-top: 10px;
@@ -46,6 +46,8 @@ img {
     justify-content: space-around;
     text-align: center;
     margin-bottom: 20px;
+    margin-top: 10px;
+    
 }
 
 .location p {
